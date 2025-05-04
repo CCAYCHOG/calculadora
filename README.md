@@ -1,4 +1,4 @@
-# calculadora# Calculadora Simple en Python
+# Calculadora Simple en Python
 
 Este es un programa de **calculadora simple** desarrollado en Python. Permite al usuario realizar operaciones matemáticas básicas como suma, resta, multiplicación y división.
 
